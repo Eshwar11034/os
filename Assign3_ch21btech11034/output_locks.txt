@@ -1,0 +1,400 @@
+1th item produced by thread 0 at 157318 ms into buffer location 0
+1th item consumed by thread 1 at 338496 ms from buffer location 0
+2th item produced by thread 0 at 32495855 ms into buffer location 1
+1th item consumed by thread 10 at 32532464 ms from buffer location 1
+3th item produced by thread 0 at 35654584 ms into buffer location 2
+1th item consumed by thread 9 at 35673181 ms from buffer location 2
+2th item consumed by thread 1 at 43861315 ms from buffer location 3
+4th item produced by thread 0 at 43806005 ms into buffer location 3
+3th item consumed by thread 1 at 51139485 ms from buffer location 4
+5th item produced by thread 0 at 50946815 ms into buffer location 4
+1th item consumed by thread 4 at 67194440 ms from buffer location 5
+6th item produced by thread 0 at 67096555 ms into buffer location 5
+1th item consumed by thread 2 at 73599640 ms from buffer location 6
+7th item produced by thread 0 at 73251206 ms into buffer location 6
+8th item produced by thread 0 at 73278826 ms into buffer location 7
+2th item consumed by thread 4 at 73658395 ms from buffer location 7
+9th item produced by thread 0 at 76410642 ms into buffer location 8
+2th item consumed by thread 2 at 76834982 ms from buffer location 8
+4th item consumed by thread 1 at 84876276 ms from buffer location 9
+10th item produced by thread 0 at 84563018 ms into buffer location 9
+3th item consumed by thread 2 at 120771187 ms from buffer location 10
+11th item produced by thread 0 at 120752047 ms into buffer location 10
+12th item produced by thread 0 at 125890587 ms into buffer location 11
+5th item consumed by thread 1 at 126094569 ms from buffer location 11
+13th item produced by thread 0 at 140042487 ms into buffer location 12
+1th item consumed by thread 5 at 140441501 ms from buffer location 12
+2th item consumed by thread 5 at 157436117 ms from buffer location 13
+14th item produced by thread 0 at 157195040 ms into buffer location 13
+4th item consumed by thread 2 at 165367617 ms from buffer location 14
+15th item produced by thread 0 at 165334158 ms into buffer location 14
+16th item produced by thread 0 at 201498411 ms into buffer location 15
+3th item consumed by thread 5 at 201931319 ms from buffer location 15
+4th item consumed by thread 5 at 223962119 ms from buffer location 16
+17th item produced by thread 0 at 223641170 ms into buffer location 16
+2th item consumed by thread 10 at 243242339 ms from buffer location 17
+18th item produced by thread 0 at 242791422 ms into buffer location 17
+19th item produced by thread 0 at 246930434 ms into buffer location 18
+1th item consumed by thread 7 at 247521852 ms from buffer location 18
+2th item consumed by thread 7 at 264240111 ms from buffer location 19
+20th item produced by thread 0 at 264084763 ms into buffer location 19
+1th item consumed by thread 8 at 265592456 ms from buffer location 20
+21th item produced by thread 0 at 265164391 ms into buffer location 20
+3th item consumed by thread 4 at 265689447 ms from buffer location 21
+22th item produced by thread 0 at 265171001 ms into buffer location 21
+5th item consumed by thread 5 at 273367311 ms from buffer location 22
+23th item produced by thread 0 at 273297667 ms into buffer location 22
+5th item consumed by thread 2 at 276584397 ms from buffer location 23
+24th item produced by thread 0 at 276452035 ms into buffer location 23
+3th item consumed by thread 7 at 366917039 ms from buffer location 24
+25th item produced by thread 0 at 366606919 ms into buffer location 24
+26th item produced by thread 0 at 368748203 ms into buffer location 25
+2th item consumed by thread 8 at 369442268 ms from buffer location 25
+6th item consumed by thread 5 at 378991686 ms from buffer location 26
+27th item produced by thread 0 at 378897940 ms into buffer location 26
+28th item produced by thread 0 at 387037788 ms into buffer location 27
+4th item consumed by thread 7 at 387290908 ms from buffer location 27
+29th item produced by thread 0 at 392189854 ms into buffer location 28
+5th item consumed by thread 7 at 392483927 ms from buffer location 28
+6th item consumed by thread 2 at 398363090 ms from buffer location 29
+30th item produced by thread 0 at 398329968 ms into buffer location 29
+7th item consumed by thread 5 at 402209058 ms from buffer location 30
+31th item produced by thread 0 at 401484474 ms into buffer location 30
+32th item produced by thread 0 at 411637954 ms into buffer location 31
+3th item consumed by thread 8 at 411829938 ms from buffer location 31
+4th item consumed by thread 8 at 419128569 ms from buffer location 32
+33th item produced by thread 0 at 418778391 ms into buffer location 32
+6th item consumed by thread 7 at 427955975 ms from buffer location 33
+34th item produced by thread 0 at 427929351 ms into buffer location 33
+35th item produced by thread 0 at 443094657 ms into buffer location 34
+7th item consumed by thread 7 at 443255361 ms from buffer location 34
+36th item produced by thread 0 at 451257426 ms into buffer location 35
+7th item consumed by thread 2 at 451284756 ms from buffer location 35
+1th item consumed by thread 3 at 457442302 ms from buffer location 36
+37th item produced by thread 0 at 457415690 ms into buffer location 36
+38th item produced by thread 0 at 461561100 ms into buffer location 37
+5th item consumed by thread 8 at 461591026 ms from buffer location 37
+39th item produced by thread 0 at 465706812 ms into buffer location 38
+8th item consumed by thread 2 at 465790670 ms from buffer location 38
+9th item consumed by thread 2 at 470045451 ms from buffer location 39
+40th item produced by thread 0 at 469863067 ms into buffer location 39
+2th item consumed by thread 3 at 483111689 ms from buffer location 40
+41th item produced by thread 0 at 483014407 ms into buffer location 40
+6th item consumed by thread 8 at 500237463 ms from buffer location 41
+42th item produced by thread 0 at 500166211 ms into buffer location 41
+43th item produced by thread 0 at 500184417 ms into buffer location 42
+8th item consumed by thread 7 at 500362283 ms from buffer location 42
+44th item produced by thread 0 at 507311907 ms into buffer location 43
+3th item consumed by thread 10 at 507338999 ms from buffer location 43
+10th item consumed by thread 2 at 517609874 ms from buffer location 44
+45th item produced by thread 0 at 517468670 ms into buffer location 44
+46th item produced by thread 0 at 517486839 ms into buffer location 45
+2th item consumed by thread 9 at 517880461 ms from buffer location 45
+4th item consumed by thread 4 at 518971592 ms from buffer location 46
+47th item produced by thread 0 at 518553374 ms into buffer location 46
+4th item consumed by thread 10 at 558844448 ms from buffer location 47
+48th item produced by thread 0 at 558694682 ms into buffer location 47
+7th item consumed by thread 8 at 582963425 ms from buffer location 48
+49th item produced by thread 0 at 582845719 ms into buffer location 48
+5th item consumed by thread 10 at 603360503 ms from buffer location 49
+50th item produced by thread 0 at 602994341 ms into buffer location 49
+51th item produced by thread 0 at 612136171 ms into buffer location 50
+8th item consumed by thread 8 at 612161480 ms from buffer location 50
+52th item produced by thread 0 at 627295553 ms into buffer location 51
+9th item consumed by thread 8 at 627629221 ms from buffer location 51
+53th item produced by thread 0 at 634437171 ms into buffer location 52
+5th item consumed by thread 4 at 634454790 ms from buffer location 52
+1th item consumed by thread 6 at 655627555 ms from buffer location 53
+54th item produced by thread 0 at 655594475 ms into buffer location 53
+9th item consumed by thread 7 at 656706107 ms from buffer location 54
+55th item produced by thread 0 at 656692425 ms into buffer location 54
+56th item produced by thread 0 at 660819377 ms into buffer location 55
+8th item consumed by thread 5 at 660946052 ms from buffer location 55
+6th item consumed by thread 1 at 662033021 ms from buffer location 56
+57th item produced by thread 0 at 661898441 ms into buffer location 56
+10th item consumed by thread 8 at 674148505 ms from buffer location 57
+58th item produced by thread 0 at 674035062 ms into buffer location 57
+3th item consumed by thread 9 at 682283368 ms from buffer location 58
+59th item produced by thread 0 at 682196278 ms into buffer location 58
+60th item produced by thread 0 at 684346818 ms into buffer location 59
+2th item consumed by thread 6 at 684456571 ms from buffer location 59
+7th item consumed by thread 1 at 685825478 ms from buffer location 60
+61th item produced by thread 0 at 685426508 ms into buffer location 60
+4th item consumed by thread 9 at 709611475 ms from buffer location 61
+62th item produced by thread 0 at 709570308 ms into buffer location 61
+3th item consumed by thread 6 at 726766139 ms from buffer location 62
+63th item produced by thread 0 at 726721475 ms into buffer location 62
+64th item produced by thread 0 at 726754605 ms into buffer location 63
+8th item consumed by thread 1 at 727040759 ms from buffer location 63
+65th item produced by thread 0 at 729884269 ms into buffer location 64
+6th item consumed by thread 4 at 730396067 ms from buffer location 64
+66th item produced by thread 0 at 730963900 ms into buffer location 65
+6th item consumed by thread 10 at 731535240 ms from buffer location 65
+10th item consumed by thread 7 at 759156808 ms from buffer location 66
+67th item produced by thread 0 at 759115006 ms into buffer location 66
+68th item produced by thread 0 at 772269268 ms into buffer location 67
+4th item consumed by thread 6 at 772296579 ms from buffer location 67
+69th item produced by thread 0 at 779417094 ms into buffer location 68
+5th item consumed by thread 9 at 779463097 ms from buffer location 68
+70th item produced by thread 0 at 791557021 ms into buffer location 69
+7th item consumed by thread 10 at 791923791 ms from buffer location 69
+71th item produced by thread 0 at 802710581 ms into buffer location 70
+3th item consumed by thread 3 at 802899465 ms from buffer location 70
+72th item produced by thread 0 at 820860736 ms into buffer location 71
+4th item consumed by thread 3 at 820911966 ms from buffer location 71
+6th item consumed by thread 9 at 828079840 ms from buffer location 72
+73th item produced by thread 0 at 828000340 ms into buffer location 72
+74th item produced by thread 0 at 829079000 ms into buffer location 73
+5th item consumed by thread 3 at 829287560 ms from buffer location 73
+75th item produced by thread 0 at 839223992 ms into buffer location 74
+7th item consumed by thread 9 at 839526526 ms from buffer location 74
+5th item consumed by thread 6 at 839594282 ms from buffer location 75
+76th item produced by thread 0 at 839242295 ms into buffer location 75
+8th item consumed by thread 10 at 849722139 ms from buffer location 76
+77th item produced by thread 0 at 849381039 ms into buffer location 76
+78th item produced by thread 0 at 862535541 ms into buffer location 77
+6th item consumed by thread 3 at 862923267 ms from buffer location 77
+9th item consumed by thread 5 at 865065701 ms from buffer location 78
+79th item produced by thread 0 at 864700392 ms into buffer location 78
+8th item consumed by thread 9 at 893024453 ms from buffer location 79
+80th item produced by thread 0 at 892848980 ms into buffer location 79
+9th item consumed by thread 10 at 909056819 ms from buffer location 80
+81th item produced by thread 0 at 909004500 ms into buffer location 80
+6th item consumed by thread 6 at 914217088 ms from buffer location 81
+82th item produced by thread 0 at 914144544 ms into buffer location 81
+7th item consumed by thread 6 at 941717229 ms from buffer location 82
+83th item produced by thread 0 at 941298949 ms into buffer location 82
+10th item consumed by thread 10 at 946146863 ms from buffer location 83
+84th item produced by thread 0 at 945440881 ms into buffer location 83
+85th item produced by thread 0 at 960592531 ms into buffer location 84
+9th item consumed by thread 1 at 960990024 ms from buffer location 84
+86th item produced by thread 0 at 966733709 ms into buffer location 85
+10th item consumed by thread 5 at 967380969 ms from buffer location 85
+87th item produced by thread 0 at 1001885241 ms into buffer location 86
+10th item consumed by thread 1 at 1001971241 ms from buffer location 86
+88th item produced by thread 0 at 1005023892 ms into buffer location 87
+7th item consumed by thread 4 at 1005540554 ms from buffer location 87
+7th item consumed by thread 3 at 1006704867 ms from buffer location 88
+89th item produced by thread 0 at 1006103131 ms into buffer location 88
+8th item consumed by thread 4 at 1012815101 ms from buffer location 89
+90th item produced by thread 0 at 1012243125 ms into buffer location 89
+8th item consumed by thread 6 at 1016443697 ms from buffer location 90
+91th item produced by thread 0 at 1016383191 ms into buffer location 90
+9th item consumed by thread 9 at 1017337031 ms from buffer location 91
+92th item produced by thread 0 at 1016401431 ms into buffer location 91
+10th item consumed by thread 9 at 1022477047 ms from buffer location 92
+93th item produced by thread 0 at 1021531823 ms into buffer location 92
+94th item produced by thread 0 at 1033685631 ms into buffer location 93
+9th item consumed by thread 6 at 1033840582 ms from buffer location 93
+8th item consumed by thread 3 at 1090567839 ms from buffer location 94
+95th item produced by thread 0 at 1089836185 ms into buffer location 94
+96th item produced by thread 0 at 1112985353 ms into buffer location 95
+9th item consumed by thread 3 at 1113609988 ms from buffer location 95
+97th item produced by thread 0 at 1113003673 ms into buffer location 96
+10th item consumed by thread 6 at 1113974733 ms from buffer location 96
+98th item produced by thread 0 at 1119131946 ms into buffer location 97
+9th item consumed by thread 4 at 1119291716 ms from buffer location 97
+10th item consumed by thread 3 at 1129170688 ms from buffer location 98
+99th item produced by thread 0 at 1128286284 ms into buffer location 98
+100th item produced by thread 0 at 1129365396 ms into buffer location 99
+10th item consumed by thread 4 at 1142443374 ms from buffer location 99
+PROD_CS: 0 156594 157318
+CONS_CS: 1 338111 338496
+PROD_CS: 0 32494941 32495855
+CONS_CS: 10 748144 32532464
+PROD_CS: 0 35653746 35654584
+CONS_CS: 9 702009 35673181
+PROD_CS: 0 43805165 43806005
+CONS_CS: 1 2551614 43861315
+PROD_CS: 0 50945969 50946815
+CONS_CS: 1 49019757 51139485
+PROD_CS: 0 67095716 67096555
+CONS_CS: 4 445364 67194440
+PROD_CS: 0 73250362 73251206
+PROD_CS: 0 73278602 73278826
+CONS_CS: 2 436149 73599640
+CONS_CS: 4 69361642 73658395
+PROD_CS: 0 76409802 76410642
+CONS_CS: 2 74712056 76834982
+PROD_CS: 0 84562172 84563018
+CONS_CS: 1 56262064 84876276
+PROD_CS: 0 120751211 120752047
+CONS_CS: 2 88979630 120771187
+PROD_CS: 0 125889751 125890587
+CONS_CS: 1 89000456 126094569
+PROD_CS: 0 140041647 140042487
+CONS_CS: 5 539034 140441501
+PROD_CS: 0 157194198 157195040
+CONS_CS: 5 141553233 157436117
+PROD_CS: 0 165333304 165334158
+CONS_CS: 2 139934571 165367617
+PROD_CS: 0 201497569 201498411
+CONS_CS: 5 157451564 201931319
+PROD_CS: 0 223640326 223641170
+CONS_CS: 5 208055880 223962119
+PROD_CS: 0 242790594 242791422
+CONS_CS: 10 37704657 243242339
+PROD_CS: 0 246929604 246930434
+CONS_CS: 7 570545 247521852
+PROD_CS: 0 264083907 264084763
+CONS_CS: 7 253641906 264240111
+PROD_CS: 0 265164067 265164391
+PROD_CS: 0 265170774 265171001
+CONS_CS: 8 665511 265592456
+CONS_CS: 4 75813276 265689447
+PROD_CS: 0 273296827 273297667
+CONS_CS: 5 251121160 273367311
+PROD_CS: 0 276451203 276452035
+CONS_CS: 2 166443648 276584397
+PROD_CS: 0 366606066 366606919
+CONS_CS: 7 267372220 366917039
+PROD_CS: 0 368747377 368748203
+CONS_CS: 8 302822946 369442268
+PROD_CS: 0 378897080 378897940
+CONS_CS: 5 280506131 378991686
+PROD_CS: 0 387036956 387037788
+CONS_CS: 7 381992276 387290908
+PROD_CS: 0 392189007 392189854
+CONS_CS: 7 390367700 392483927
+PROD_CS: 0 398329130 398329968
+CONS_CS: 2 276591387 398363090
+PROD_CS: 0 401483625 401484474
+CONS_CS: 5 401146394 402209058
+PROD_CS: 0 411637116 411637954
+CONS_CS: 8 371580499 411829938
+PROD_CS: 0 418777559 418778391
+CONS_CS: 8 414897709 419128569
+PROD_CS: 0 427928515 427929351
+CONS_CS: 7 402548976 427955975
+PROD_CS: 0 443093825 443094657
+CONS_CS: 7 439021166 443255361
+PROD_CS: 0 451256596 451257426
+CONS_CS: 2 402502769 451284756
+PROD_CS: 0 457414758 457415690
+CONS_CS: 3 448605 457442302
+PROD_CS: 0 461560252 461561100
+CONS_CS: 8 437266985 461591026
+PROD_CS: 0 465705968 465706812
+CONS_CS: 2 459423712 465790670
+PROD_CS: 0 469862220 469863067
+CONS_CS: 2 466867722 470045451
+PROD_CS: 0 483013559 483014407
+CONS_CS: 3 474630952 483111689
+PROD_CS: 0 500165363 500166211
+PROD_CS: 0 500184190 500184417
+CONS_CS: 8 471656271 500237463
+CONS_CS: 7 445330979 500362283
+PROD_CS: 0 507310859 507311907
+CONS_CS: 10 260393403 507338999
+PROD_CS: 0 517467814 517468670
+PROD_CS: 0 517486607 517486839
+CONS_CS: 2 492183462 517609874
+CONS_CS: 9 40844990 517880461
+PROD_CS: 0 518553108 518553374
+CONS_CS: 4 285840681 518971592
+PROD_CS: 0 558693841 558694682
+CONS_CS: 10 534475187 558844448
+PROD_CS: 0 582844870 582845719
+CONS_CS: 8 516307077 582963425
+PROD_CS: 0 602993492 602994341
+CONS_CS: 10 559923319 603360503
+PROD_CS: 0 612135336 612136171
+CONS_CS: 8 592027892 612161480
+PROD_CS: 0 627294706 627295553
+CONS_CS: 8 620226194 627629221
+PROD_CS: 0 634436326 634437171
+CONS_CS: 4 518990594 634454790
+PROD_CS: 0 655593637 655594475
+CONS_CS: 6 567104 655627555
+PROD_CS: 0 656692111 656692425
+CONS_CS: 7 524427001 656706107
+PROD_CS: 0 660818534 660819377
+CONS_CS: 5 418360375 660946052
+PROD_CS: 0 661898201 661898441
+CONS_CS: 1 132220346 662033021
+PROD_CS: 0 674034204 674035062
+CONS_CS: 8 629692011 674148505
+PROD_CS: 0 682195434 682196278
+CONS_CS: 9 534041190 682283368
+PROD_CS: 0 684345974 684346818
+CONS_CS: 6 670708525 684456571
+PROD_CS: 0 685426174 685426508
+CONS_CS: 1 674167498 685825478
+PROD_CS: 0 709569437 709570308
+CONS_CS: 9 688434028 709611475
+PROD_CS: 0 726720634 726721475
+PROD_CS: 0 726754363 726754605
+CONS_CS: 6 686523126 726766139
+CONS_CS: 1 689949180 727040759
+PROD_CS: 0 729883429 729884269
+CONS_CS: 4 662595496 730396067
+PROD_CS: 0 730963667 730963900
+CONS_CS: 10 604426556 731535240
+PROD_CS: 0 759114148 759115006
+CONS_CS: 7 661769141 759156808
+PROD_CS: 0 772268301 772269268
+CONS_CS: 6 747903783 772296579
+PROD_CS: 0 779416248 779417094
+CONS_CS: 9 712749317 779463097
+PROD_CS: 0 791556185 791557021
+CONS_CS: 10 731541683 791923791
+PROD_CS: 0 802709717 802710581
+CONS_CS: 3 486270346 802899465
+PROD_CS: 0 820859900 820860736
+CONS_CS: 3 803965165 820911966
+PROD_CS: 0 827999520 828000340
+CONS_CS: 9 783604014 828079840
+PROD_CS: 0 829078708 829079000
+CONS_CS: 3 825037420 829287560
+PROD_CS: 0 839223155 839223992
+PROD_CS: 0 839242056 839242295
+CONS_CS: 9 834219896 839526526
+CONS_CS: 6 783438714 839594282
+PROD_CS: 0 849380212 849381039
+CONS_CS: 10 802050513 849722139
+PROD_CS: 0 862534687 862535541
+CONS_CS: 3 836427100 862923267
+PROD_CS: 0 864699567 864700392
+CONS_CS: 5 686099122 865065701
+PROD_CS: 0 892848138 892848980
+CONS_CS: 9 850676216 893024453
+PROD_CS: 0 909003654 909004500
+CONS_CS: 10 850804336 909056819
+PROD_CS: 0 914143704 914144544
+CONS_CS: 6 869744793 914217088
+PROD_CS: 0 941298075 941298949
+CONS_CS: 6 917356874 941717229
+PROD_CS: 0 945440033 945440881
+CONS_CS: 10 909066622 946146863
+PROD_CS: 0 960591691 960592531
+CONS_CS: 1 733168717 960990024
+PROD_CS: 0 966732862 966733709
+CONS_CS: 5 874216358 967380969
+PROD_CS: 0 1001884413 1001885241
+CONS_CS: 1 969121183 1001971241
+PROD_CS: 0 1005023071 1005023892
+CONS_CS: 4 739535147 1005540554
+PROD_CS: 0 1006102896 1006103131
+CONS_CS: 3 888077377 1006704867
+PROD_CS: 0 1012242280 1012243125
+CONS_CS: 4 1009626305 1012815101
+PROD_CS: 0 1016382340 1016383191
+PROD_CS: 0 1016401211 1016401431
+CONS_CS: 6 951864313 1016443697
+CONS_CS: 9 906175184 1017337031
+PROD_CS: 0 1021530991 1021531823
+CONS_CS: 9 1022476107 1022477047
+PROD_CS: 0 1033684791 1033685631
+CONS_CS: 6 1029603508 1033840582
+PROD_CS: 0 1089835319 1089836185
+CONS_CS: 3 1023842321 1090567839
+PROD_CS: 0 1112984504 1112985353
+PROD_CS: 0 1113003433 1113003673
+CONS_CS: 3 1097710144 1113609988
+CONS_CS: 6 1041993836 1113974733
+PROD_CS: 0 1119131104 1119131946
+CONS_CS: 4 1023952287 1119291716
+PROD_CS: 0 1128285430 1128286284
+CONS_CS: 3 1121758214 1129170688
+PROD_CS: 0 1129365078 1129365396
+CONS_CS: 4 1142442498 1142443374
